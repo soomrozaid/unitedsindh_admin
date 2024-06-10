@@ -1,2 +1,4 @@
 node_modules/
+.adminjs/
 .env
+package-lock.json
